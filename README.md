@@ -1,2 +1,2 @@
 # hackernews-alt
-- graphql python demonstration
+- graphql python demonstration with a hackernews clone including auth
